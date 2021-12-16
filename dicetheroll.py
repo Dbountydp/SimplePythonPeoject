@@ -1,5 +1,5 @@
 import random
-
+*k,o,l,ok,o,op,op,lopl`
 
 def diceroll():
     print("\n<--- Rolling the dice ---->\n")
